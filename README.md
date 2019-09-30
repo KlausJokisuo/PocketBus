@@ -39,7 +39,7 @@ If you want to improve Pocket bus, you can build the app locally and debug any i
 - **Option 2**
     - ⚡ Clone this repo to your local machine using `https://github.com/KlausJokinen/PocketBus.git`
     
-### Step 3
+### Step 2
 
 - **Update API Keys** 🔑
     - Create file called `api.keys` into project root
@@ -50,11 +50,11 @@ If you want to improve Pocket bus, you can build the app locally and debug any i
           hereMapAppCode=api_key_here
        ```
 
-### Step 2
+### Step 3
 
 - **Do some coding magic** 🧙
 
-### Step 3
+### Step 4
 
 - 🔃 Create a new pull request using <a href="https://github.com/KlausJokinen/PocketBus/compare/`" target="_blank">`https://github.com/KlausJokinen/PocketBus/compare/`</a>.
 
