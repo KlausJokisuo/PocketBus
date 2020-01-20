@@ -24,7 +24,7 @@ Pocket Bus brings together F&ouml;li&trade; buses and F&ouml;li&trade; bikes in 
 - **Themes:** Black, dark & light
 
 ## Development ##
-Pocket Bus is developed using [Android Studio](https://developer.android.com/studio), which offers a complete, integrated IDE experience for Flutter.
+Pocket Bus is developed using [Android Studio](https://developer.android.com/studio), which offers a complete, integrated IDE experience for [Flutter](https://flutter.dev/).
 
 Currently **Android** platform is supported.
 
